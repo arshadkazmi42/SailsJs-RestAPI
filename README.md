@@ -22,10 +22,10 @@
     Response after searching 'name' in table
 
 5. http://localhost:1337/search?type={battle_type}
-    Response after searching 'name' in table
+    Response after searching 'battle_type' in table
 
 6. http://localhost:1337/search?king={king}
-    Response after searching 'name' in table
+    Response after searching 'king' in table
 
 7. http://localhost:1337/search?location={location}
-    Response after searching 'name' in table
+    Response after searching 'location' in table
