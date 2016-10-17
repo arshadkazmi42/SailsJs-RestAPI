@@ -10,22 +10,22 @@
 <b>API's Included</b>
 
 1. http://localhost:1337/list
-    Fetch all data from table (JSON Format)
+   <br>Fetch all data from table (JSON Format)
 
 2. http://localhost:1337/count
-    Counts all the records in the table (JSON)
+   <br>Counts all the records in the table (JSON)
 
 3. http://locahost:1337/stats
-    Response after some processing with the fetched results (JSON Format)
+   <br>Response after some processing with the fetched results (JSON Format)
 
 4. http://localhost:1337/search?name={name}
-    Response after searching 'name' in table
+   <br>Response after searching 'name' in table
 
 5. http://localhost:1337/search?type={battle_type}
-    Response after searching 'battle_type' in table
+   <br>Response after searching 'battle_type' in table
 
 6. http://localhost:1337/search?king={king}
-    Response after searching 'king' in table
+   <br>Response after searching 'king' in table
 
 7. http://localhost:1337/search?location={location}
-    Response after searching 'location' in table
+   <br>Response after searching 'location' in table
